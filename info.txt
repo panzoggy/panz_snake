@@ -1,0 +1,16 @@
+REPO CREE: panzoggy/panz_snake
+URL: https://github.com/panzoggy/panz_snake
+
+POUR POUSSER LE CODE LOCAL:
+
+cd D:\OpenCode\projects\snake
+git init
+git add .
+git commit -m "Initial commit: Snake game"
+git branch -M main
+git remote add origin https://github.com/panzoggy/panz_snake.git
+git push -u origin main
+
+SI DEJA UN REPO GIT LOCAL:
+git remote set-url origin https://github.com/panzoggy/panz_snake.git
+git push -u origin main
