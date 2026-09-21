@@ -67,3 +67,7 @@ panz_snake/
 ## 📝 License
 
 MIT License - Feel free to use and modify!
+
+---
+
+> **Note :** C'est mon **premier projet GitHub** — ce repo sert de **test** pour apprendre à pousser du code, créer un repo, écrire un README, etc. 🎉
